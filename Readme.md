@@ -1,8 +1,8 @@
 Написанием Readme. занимался Gten.
 
 Мы делали группой из трех человек и у каждого были свои ролли:
-1. Gten ( Developer ) - Максим Реснянский 
-https://github.com/Gten71
+1. ini ( Developer ) - Максим Реснянский 
+https://github.com/inixiv
 
 2. YO-U ( Programmist ) - Артем Иванов 
 https://github.com/YO-U
